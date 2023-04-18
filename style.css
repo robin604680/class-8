@@ -125,4 +125,72 @@ nav{
     border-radius: 10px;
     color: #fff;
     text-transform: capitalize;
-    display: inline-block; }
+    display: inline-block; 
+}
+
+.about-sideber{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.about-us{
+    width: 80%;
+}
+
+.about-us h2 {
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+.about-us .about-btn {
+    text-decoration: none;
+    background-color: brown;
+    margin-top: 25px;
+    padding: 15px 30px;
+    border-radius: 10px;
+    color: #fff;
+    text-transform: capitalize;
+    display: inline-block;
+}
+
+.sideber-menu {
+    margin: 10px;
+    width: 20%;
+}
+
+.sideber-menu h2 {
+    font-size: 30px;
+}
+
+.sideber-menu ul li{
+    list-style: none;
+}
+.sideber-menu ul li img{
+    width: 12px;
+}
+
+.sideber-menu ul li a{
+    color: black;
+    margin-left: 5px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.footer-text {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #008083;
+}
+
+.footer-text {
+    text-align: center;
+    color: #fff;
+}
+.footer-text h2 {
+    font-size: 25px;
+    padding: 20px 0;
+}
+
+
